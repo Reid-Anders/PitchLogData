@@ -1,0 +1,17 @@
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\bin\Debug\net6.0\PitchLogData.deps.json
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\bin\Debug\net6.0\PitchLogData.runtimeconfig.json
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\bin\Debug\net6.0\PitchLogData.dll
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\bin\Debug\net6.0\PitchLogData.pdb
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\bin\Debug\net6.0\PitchLogLib.dll
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\bin\Debug\net6.0\PitchLogLib.pdb
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.csproj.AssemblyReference.cache
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.AssemblyInfoInputs.cache
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.AssemblyInfo.cs
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.csproj.CoreCompileInputs.cache
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.csproj.CopyComplete
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.dll
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\refint\PitchLogData.dll
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.pdb
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\PitchLogData.genruntimeconfig.cache
+C:\Users\reida\source\repos\PitchLogLib\PitchLogData\obj\Debug\net6.0\ref\PitchLogData.dll
