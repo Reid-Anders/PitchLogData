@@ -41,17 +41,6 @@ namespace PitchLogData
             modelBuilder.Ignore<Climb>();
             modelBuilder.Ignore<ClimbInstance>();
 
-
-            modelBuilder.Entity<Route>(table =>
-            {
-                table.OwnsOne(route => route.Length,
-                    length =>
-                    {
-                        length.Property(length => length.Value).HasColumnName("Length");
-                        length.Property(length => length.Units).HasColumnName("LengthUnits");
-                    });
-            });
-
             var GradesList = new List<Grade>()
             {
                 new Grade { ID = 1, Type = PitchLogLib.GradeType.YDS, Value = "5.5" },
