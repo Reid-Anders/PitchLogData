@@ -27,6 +27,11 @@ namespace PitchLogData
 
         public DbSet<Grade> Grades { get; set; }
 
+        public async Task<bool> Save()
+        {
+            return await SaveChangesAsync() >= 0;
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = PitchLogDB")
